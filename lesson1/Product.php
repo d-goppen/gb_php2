@@ -1,5 +1,4 @@
 <?php
-
 class Product {
     // id в базе
     protected $id;

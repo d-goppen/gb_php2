@@ -1,5 +1,4 @@
 <?php
-
 class ProductFood extends Product
 {
     // дата производства
